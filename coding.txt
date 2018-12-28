@@ -1,6 +1,8 @@
 Basically PHP Code
 HTML CSS JQuery.
 MySQL
+Javascript
+Ajax
 
 
 Thankyou Message
